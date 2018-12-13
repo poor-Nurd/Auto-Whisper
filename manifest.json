@@ -1,0 +1,11 @@
+{
+	"files": {
+		"README.md": "29ae5889a87e30c53041603327c6a3e67458af354fce563afc6bcc1ec3573551",
+		"index.js": "42b2326c33afc11526b9a5531e7dd07e7e1c0de1d85613db9b8cdbcb05e53b27",
+		"module.json": "39a486c8263cd73aafead696c8b0045256b6db4e5305ea924b2412273aefcb6c"
+	},
+	"defs": {
+		"C_WHISPER": 1,
+		"S_WHISPER": 2
+	}
+}
